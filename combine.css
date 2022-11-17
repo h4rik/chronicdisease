@@ -1,0 +1,8 @@
+body {
+  background-image: url(file:///home/student/Desktop/project/srp.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  font-family: sans-serif;
+  padding: 20px;
+}
