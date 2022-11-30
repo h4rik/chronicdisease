@@ -1,9 +1,8 @@
 body {
-  background-image: url(img/chronic.jpeg);
+  background-image: url(img/chronic.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
   font-family: sans-serif;
   padding: 20px;
-  opacity:0.5;
 }
